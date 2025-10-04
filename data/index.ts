@@ -181,7 +181,7 @@ export const workExperience = [
   {
     id: 2,
     title: "React Developer",
-    desc: "Developed responsive and dynamic web applications using React, focusing on performance and reusable components.",
+    desc: "Developed responsive and dynamic web applications using React, focusing on performance.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
